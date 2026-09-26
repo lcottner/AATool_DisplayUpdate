@@ -1,0 +1,7 @@
+The main objective of this repository is to add a pop-up to the display which shows what advancement was gotten. When viewing an AA run, the Minecraft in game chat can be covered up or set to a small GUI which makes it hard to read. The pop up will be displayed under the third row and only last a couple of seconds which will fix the issue.
+
+Other things:
+
+I want to tinker with the refresh rate of the tracker to see if the pop up display can sync to the action in game.
+
+If the pop up works, I could potentially expand it to include tracking for complex advancements. e.g. 2 by 2, A Complete Catalogue, A Balanced Diet, etc.
