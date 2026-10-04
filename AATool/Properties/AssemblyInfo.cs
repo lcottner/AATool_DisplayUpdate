@@ -5,8 +5,8 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CTM's AATool")]
-[assembly: AssemblyProduct("CTM's AATool")]
+[assembly: AssemblyTitle("CTM's AATool - UNOFFICIALLY MODIFIED BY: Zep")]
+[assembly: AssemblyProduct("CTM's AATool - UNOFFICIALLY MODIFIED BY: Zep")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyCompany("Darwin Baker Software Solutions, LLC.")]
@@ -33,6 +33,6 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("1.8.0.1")]
-[assembly: AssemblyFileVersion("1.8.0.1")]
+[assembly: AssemblyVersion("1.9.0.1")]
+[assembly: AssemblyFileVersion("1.9.0.1")]
 [assembly: NeutralResourcesLanguage("en")]
